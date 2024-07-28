@@ -1,0 +1,1 @@
+In this repositry I have added a random color generater on click on start. When start is clicked everysecond a color generated in the background and on click on stop the generated stop on the color which was generated
